@@ -5,18 +5,16 @@
 
 <img align="left" src="https://raw.githubusercontent.com/raacccoon/raacccoon/readmeImg.png" alt="logo.png" width="200" /> 
 
-                                      ```csharp
+```csharp                                    
+raacccoon@github
                                       
-                                      raacccoon@github
-                                      
-                                      OS  :  Arch Linux
-                                      WM  :  i3
-                                   Shell  :  bash 5.1.16
-                                Terminal  :  alacritty
-                                    Alias :  Mythstik
-                                Languages :  Java, C++, Python, HTML, CSS, JavaScript, PHP, SQL
-                                
-                                      ```
+      OS  :  Arch Linux
+      WM  :  i3
+   Shell  :  bash 5.1.16
+Terminal  :  alacritty
+    Alias :  Mythstik
+Languages :  Java, C++, Python, HTML, CSS, JavaScript, PHP, SQL                          
+```
                                       
                                       
 <p align="left">
