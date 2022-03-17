@@ -3,7 +3,7 @@
 ```
 
 
-<img align="left" src="https://github.com/Raacccoon/Raacccoon/blob/b74b61d1864a1d22a1e9ce509b7aa27fa8cad366/capture.png" alt="logo.png" width="200" /> 
+<img align="left" src="https://github.com/Raacccoon/Raacccoon/blob/b74b61d1864a1d22a1e9ce509b7aa27fa8cad366/capture.png" alt="logo.png" width="200" height="200" /> 
 
 ```csharp                                    
 raacccoon@github
