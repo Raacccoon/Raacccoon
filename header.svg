@@ -3,7 +3,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
 
       <style>
-        .body {
+        .main {
           background-color: #1A2331;
           color: #D1F6EF;
         }
@@ -11,9 +11,12 @@
         
       </style>
       <body>
+        <div class=main>
         <p>Test</p>
+        </div>
       </body>
 
     </div>
   </foreignObject>
 </svg>
+
