@@ -52,21 +52,39 @@ body{
 }
         
 
+#dhruv {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .kitten {
   color: #68A691;
   text-align: center;
+  float: left;
+}
+
+.monkey {
+  color: #4595B4;
   float: right;
 }
       </style>
        <div id="parent">I'm a Front End Web Developer.<div id="border"></div></div>
   <div id="dhruv"> 
   <div class="kitten">
-  <h1>       OS | Arch Linux x86_64</h1>
-  <h1>    Shell | zsh 5.8.1</h1>
-  <h1>       WM | WayFire and i3</h1>
-  <h1> Terminal | alacritty</h1>
-  <h1>Languages | Java, C++, Python, HTML, CSS, JS, PHP, SQL<</h1>
+  <h1>       OS |</h1>
+  <h1>    Shell |</h1>
+  <h1>       WM |</h1>
+  <h1> Terminal |</h1>
+  <h1>Languages |</h1>
   </div>
+      <div class="monkey">
+    <h1> Arch Linux x86_64</h1>  
+    <h1> zsh 5.8.1</h1>
+    <h1> WayFire & i3</h1>
+    <h1> alacritty</h1>
+    <h1> Java, C++, Python, HTML, CSS, JS, PHP, SQL</h1>
+    
   </div>
     </div>
   </foreignObject>
