@@ -3,19 +3,54 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
 
       <style>
-        .main {
-          background-color: #1A2331;
-          color: #D1F6EF;
-        }
-        
-        
-      </style>
-      <body>
-        <div class=main>
-        <p>Test</p>
-        </div>
-      </body>
+        @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
 
+body{
+  padding: 40px;
+  background-color: #121212;  
+}
+
+#parent {
+  height: 40px;
+  white-space: nowrap;
+  overflow: hidden; 
+  font-family: 'Source Code Pro', monospace;  
+  font-size: 28px;
+  color: rgba(255,255,255,.70);
+  position: relative;
+}
+
+#border {
+  border-bottom: solid 3px rgba(0,255,0,.75);
+  position: absolute;
+  right: -7px;
+  width: 20px;
+}
+
+/* Animation */
+#parent {
+  animation: animated-text 2s steps(30,end) 1s 1 normal both
+}
+
+#border {
+   animation: animated-cursor 600ms steps(30,end) infinite;
+}
+
+/* text animation */
+
+@keyframes animated-text{
+  from{width: 0;}
+  to{width: 480px;}
+}
+
+/* cursor animations */
+
+@keyframes animated-cursor{
+  from{border-bottom-color: rgba(0,255,0,.75);}
+  to{border-bottom-color: transparent;}
+}
+      </style>
+<div id="parent">Im a Front End Web Developer.<div id="border"></div></div>
     </div>
   </foreignObject>
 </svg>
