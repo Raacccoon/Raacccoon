@@ -9,8 +9,8 @@
 raacccoon@github
                                       
        OS  :  Arch Linux
-       WM  :  i3
-    Shell  :  bash 5.1.16
+       WM  :  WayFire & i3
+    Shell  :  oh-my-zsh
  Terminal  :  alacritty
     Alias  :  Mythstik
 Languages  :  Java, C++, Python, HTML, CSS, JavaScript, PHP, SQL                          
