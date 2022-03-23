@@ -6,7 +6,7 @@
 
 body{
   padding: 40px;
-  background-color: #121212;  
+  background-color: #1A2431;  
 }
 
 #parent {
@@ -15,8 +15,9 @@ body{
   overflow: hidden; 
   font-family: 'Source Code Pro', monospace;  
   font-size: 28px;
-  color: rgba(255,255,255,.70);
+  color: #D1F6EF;
   position: relative;
+  float: center;
   margin: 0 auto;
 }
 
@@ -26,7 +27,8 @@ body{
   right: -7px;
   width: 20px;
 }
-        
+
+/* Animation */
 #parent {
   animation: animated-text 2s steps(30,end) 1s 1 normal both
 }
@@ -34,19 +36,25 @@ body{
 #border {
    animation: animated-cursor 600ms steps(30,end) infinite;
 }
-        
+
+/* text animation */
+
 @keyframes animated-text{
   from{width: 0;}
   to{width: 480px;}
 }
-        
+
+/* cursor animations */
+
 @keyframes animated-cursor{
-  from{border-bottom-color: rgba(0,255,0,.75);}
+  from{border-bottom-color: #4A917C;}
   to{border-bottom-color: transparent;}
 }
       </style>
+      <body>
        <div id="parent">I'm a Front End Web Developer.<div id="border"></div></div>
     </div>
+      </body
   </foreignObject>
 </svg>
 
