@@ -63,10 +63,6 @@ body{
   float: left;
 }
 
-.mod {
-  color: #418972;
-  float: left;
-}
 
 .monkey {
   color: #D1F6EF;
@@ -82,19 +78,12 @@ body{
   <h1> Terminal </h1>
   <h1>Languages </h1>
   </div>
-  <div class="mod"> 
-    <h1> | </h1>
-    <h1> | </h1>
-    <h1> | </h1>
-    <h1> | </h1>
-    <h1> | </h1>
-   </div>
   <div class="monkey">
-    <h1> Arch Linux x86_64</h1>  
-    <h1> zsh 5.8.1</h1>
-    <h1> WayFire and i3</h1>
-    <h1> alacritty</h1>
-    <h1> Java, C++, Python, HTML, CSS, JS, PHP, SQL</h1>
+    <h1> | Arch Linux x86_64</h1>  
+    <h1> | zsh 5.8.1</h1>
+    <h1> | WayFire and i3</h1>
+    <h1> | alacritty</h1>
+    <h1> | Java, C++, Python, HTML, CSS, JS, PHP, SQL</h1>
    </div>
   </div>
     </div>
