@@ -75,7 +75,6 @@ body{
       </style>
       <body>
        <div id="parent">I'm a Front End Web Developer.<div id="border"></div></div>
-    </div>
       
       <div id="dhruv"> 
   <div class="kitten">
@@ -84,22 +83,22 @@ body{
   <h1>       WM </h1>
   <h1> Terminal </h1>
   <h1>Languages </h1>
-</div>
+  </div>
   <div class="mod"> 
     <h1> | </h1>
     <h1> | </h1>
     <h1> | </h1>
     <h1> | </h1>
     <h1> | </h1>
-</div>
+   </div>
   <div class="monkey">
     <h1> Arch Linux x86_64</h1>  
     <h1> zsh 5.8.1</h1>
     <h1> WayFire & i3</h1>
     <h1> alacritty</h1>
     <h1> Java, C++, Python, HTML, CSS, JS, PHP, SQL</h1>
-</div>
-</div>
+   </div>
+  </div>
     </body>
   </foreignObject>
 </svg>
