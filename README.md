@@ -1,4 +1,4 @@
-<img align="center" src="header.svg" width="1000" height="300">
+<img align="center" src="header.svg" width="1000" height="100">
 
 <img align="left" src="animation.svg" width="300" height="300">
 
