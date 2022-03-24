@@ -19,7 +19,6 @@ html {
 .cube {
     margin-left: auto;
     margin-right: auto;
-    position: relative;
     width: 500px;
     height: 500px;
     -webkit-transform-style: preserve-3d;
