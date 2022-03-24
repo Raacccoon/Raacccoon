@@ -1,6 +1,6 @@
 <img align="center" src="header.svg" width="800" height="50">
 
-<img align="left" src="animation.svg" width="1000" height="50">
+<img align="left" src="animation.svg" width="300" height="300">
 
 ```csharp                                    
 raacccoon@github
