@@ -5,17 +5,17 @@
 ```csharp                                    
 raacccoon@github
          
-       OS  :  Arch Linux
+       OS  |  Arch Linux
        
-       WM  :  i3
+       WM  |  i3 & Wayfire
        
-    Shell  :  bash 5.1.16
+    Shell  |  zsh 5.8.1
     
- Terminal  :  alacritty
+ Terminal  |  alacritty
  
-    Alias  :  Mythstik
+    Alias  |  Mythstik
     
-Languages  :  Java, C++, Python, HTML, CSS, JavaScript, PHP, SQL    
+Languages  |  Java, C++, Python, HTML, CSS, JavaScript, PHP, SQL    
 
 ```
 
